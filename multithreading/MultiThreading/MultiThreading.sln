@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiThreadingTests", "MultiThreadingTests\MultiThreadingTests.vcxproj", "{37BF73DD-AC75-401A-8237-2EC29729B6DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64D303FF-3B8C-4DD1-82E9-1B2627AF19DF}"
+	ProjectSection(SolutionItems) = preProject
+		MultiThreadingTests\MultithreadingMatrix.cpp = MultiThreadingTests\MultithreadingMatrix.cpp
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiThreadingMatrix", "MultiThreadingMatrix\MultiThreadingMatrix.vcxproj", "{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Debug|x64.ActiveCfg = Debug|x64
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Debug|x64.Build.0 = Debug|x64
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Debug|x86.Build.0 = Debug|Win32
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Release|x64.ActiveCfg = Release|x64
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Release|x64.Build.0 = Release|x64
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Release|x86.ActiveCfg = Release|Win32
+		{37BF73DD-AC75-401A-8237-2EC29729B6DD}.Release|x86.Build.0 = Release|Win32
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Debug|x64.ActiveCfg = Debug|x64
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Debug|x64.Build.0 = Debug|x64
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Debug|x86.Build.0 = Debug|Win32
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Release|x64.ActiveCfg = Release|x64
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Release|x64.Build.0 = Release|x64
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Release|x86.ActiveCfg = Release|Win32
+		{8B6541D1-AEF6-41FF-AA72-48FD89C338B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8F70605-18AA-4245-86D6-7DB89C4F3EAD}
+	EndGlobalSection
+EndGlobal

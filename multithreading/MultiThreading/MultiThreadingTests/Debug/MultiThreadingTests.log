@@ -1,0 +1,4 @@
+﻿  MultiThreadingIntegral.cpp
+c1xx : warning C4199: la recherche de nom en deux phases n'est pas prise en charge pour C++/CLI, C++/CX ou OpenMP ; utilisez /Zc:twoPhase-
+d:\m2\programmation\multi computing\multithreading\multithreading\multithreadingtests\multithreadingintegral.cpp(17): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  MultiThreadingTests.vcxproj -> D:\M2\Programmation\Multi Computing\multithreading\MultiThreading\Debug\MultiThreadingTests.exe
